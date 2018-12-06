@@ -1,0 +1,1 @@
+print("Doni naaak")
