@@ -1,2 +1,3 @@
 print("Maks naaak")
-cfgjdr
+korkor = 2
+print(korkor)
