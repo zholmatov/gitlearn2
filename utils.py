@@ -1,1 +1,1 @@
-print("Doni naaak")
+print("Maks naaak")
