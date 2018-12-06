@@ -1,2 +1,3 @@
 print("Maks naaak")
-cfgjdr
+print("Bayel naak")
+print("Doni naak")
