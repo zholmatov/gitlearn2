@@ -5,3 +5,4 @@ print('Aza chychkak')
 print('My neudachniki')
 a = 12
 print(a)
+print('vse lohi')
