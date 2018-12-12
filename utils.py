@@ -1,1 +1,2 @@
-print("1223")
+def Maksatbek():
+    print("My name is Maksatbek")
