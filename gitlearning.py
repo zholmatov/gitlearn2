@@ -9,4 +9,4 @@ def f():
         print('Hello')
 f()
 
-print("Doni Looooh")
+print("Doni Loooh")
