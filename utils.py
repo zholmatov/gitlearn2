@@ -1,4 +1,2 @@
-print("Maks naaak")
-print("Bayel naak")
-print("Doni naak")
-print('Aza chychk
+def azamat():
+    print('Aza chychk')
