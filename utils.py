@@ -1,3 +1,2 @@
-print("Maks naaak")
-korkor = 2
-print(korkor)
+def Baiel():
+    print("My name is Baiel")
