@@ -7,3 +7,8 @@ def Azamat():
     else:
         print('Hello')
 Azamat()
+
+
+def azamat():
+    print('Azamat')
+azamat()
