@@ -1,1 +1,1 @@
-print("Doni admin")
+print("123")
