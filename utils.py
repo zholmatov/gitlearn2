@@ -1,2 +1,2 @@
-def Baiel():
-    print("Baiel")
+def Baiel2():
+    print("Baiel2")
