@@ -1,2 +1,2 @@
 def Maksatbek():
-    print("My name is Maksat")
+    print("My name is Maksatbek")
