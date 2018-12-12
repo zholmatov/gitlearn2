@@ -1,2 +1,2 @@
 def Daniyar():
-    print('My name is Daniyarbek')
+    print('My name is Daniyar')
