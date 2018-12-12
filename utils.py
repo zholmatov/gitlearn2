@@ -1,2 +1,2 @@
-def Daniyar():
-    print('My name is Daniyar')
+def Maksatbek():
+    print('My name is Maksatbek')
