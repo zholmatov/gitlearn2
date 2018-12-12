@@ -1,2 +1,1 @@
-def azamat():
-    print('Aza chychk')
+print("1223")
