@@ -10,3 +10,5 @@ def f():
 f()
 
 print("Doni Loooh")
+
+print('HELLO')
