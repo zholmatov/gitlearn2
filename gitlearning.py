@@ -9,10 +9,10 @@ def f():
         print('Hello')
 f()
 
-print("Doni Loooh")
 
 print('HELLO')
 def Aza():
     print('Aza looh')
 def Maks():
     print('Maks loh')
+Aza()
