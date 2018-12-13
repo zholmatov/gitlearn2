@@ -1,0 +1,15 @@
+Index: utils.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- utils.py	(date 1544667605000)
++++ utils.py	(date 1544667633000)
+@@ -2,4 +2,4 @@
+     print("My name is Maksatbek")
+ 
+ def Azamat():
+-    print("My name is Azamat")
+\ No newline at end of file
++    print("My nameis Azamat")
+\ No newline at end of file
