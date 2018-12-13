@@ -7,8 +7,6 @@ def f():
         print(a*a*a)
     else:
         print('Hello')
-f()
-
 
 print('HELLO')
 def Aza():
@@ -17,3 +15,5 @@ def Maks():
     print('Maks loh')
 Aza()
 Maks()
+a = 2
+print(2*a)
