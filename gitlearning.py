@@ -16,3 +16,4 @@ def Aza():
 def Maks():
     print('Maks loh')
 Aza()
+Maks()
