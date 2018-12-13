@@ -1,2 +1,2 @@
 def Doni():
-    print("It's Daniyar's project")
+    print("It's Daniyar's projects")
