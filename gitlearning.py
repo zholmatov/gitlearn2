@@ -12,3 +12,5 @@ f()
 print("Doni Loooh")
 
 print('HELLO')
+
+print("Maksatbek")
