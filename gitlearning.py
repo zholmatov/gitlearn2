@@ -10,4 +10,4 @@ def f():
 f()
 
 print("Doni nk")
-xcfch
+print('Aza')
