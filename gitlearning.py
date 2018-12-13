@@ -7,7 +7,6 @@ def f():
         print(a*a*a)
     else:
         print('Hello')
-f()
 
 print("Doni nk")
 print('Aza   ')
